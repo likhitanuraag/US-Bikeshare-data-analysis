@@ -1,7 +1,7 @@
 # US-Bikeshare-data-analysis
 Data of Washington, NYC and Chicago
 
-Table of Contents/-
+Table of Contents>>>
  Introduction-
  Posing Questions-
  Data Collection and Wrangling-
